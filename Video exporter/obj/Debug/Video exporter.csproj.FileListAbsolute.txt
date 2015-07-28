@@ -1,0 +1,12 @@
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Video exporter.dll
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Video exporter.pdb
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Video exporter.dll.manifest
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Video exporter.vsto
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video exporter.csprojResolveAssemblyReference.cache
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video_exporter.Properties.Resources.resources
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video exporter.csproj.GenerateResource.Cache
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video exporter.dll
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video exporter.pdb
+c:\users\jaka\documents\visual studio 2013\Projects\Video exporter\Video exporter\obj\Debug\Video_exporter.Video_export.resources
